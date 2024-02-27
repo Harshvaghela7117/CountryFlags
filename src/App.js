@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Flag from './Flag/Flag'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hii</h1>
+      <Flag />
     </div>
   );
 }
